@@ -16,7 +16,7 @@ export function App() {
           <img src={preactLogo} class="logo preact" alt="Preact logo" />
         </a>
       </div>
-      <h1>Vite + Preact + GITHUB APP TEST limit + rohit cicd works !!!!!</h1>
+      <h1>Vite + Preact + GITHUB APP TEST limit + async rm </h1>
       <div class="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
